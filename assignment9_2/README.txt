@@ -1,0 +1,1 @@
+Aalto's template program 'coffee_container_program_template.py' was corrupted. This program will not function without it.

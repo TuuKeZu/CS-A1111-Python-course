@@ -1,0 +1,107 @@
+Date : 2022-02-13 16:42:48
+Directory : c:\Users\tuukk\Documents\python
+Total : 45 files,  2296 codes, 321 comments, 827 blanks, all 3444 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         45 |      2,296 |        321 |        827 |      3,444 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                         |         45 |      2,296 |        321 |        827 |      3,444 |
+| assignment1_2                                                             |          1 |          1 |          0 |          0 |          1 |
+| assignment1_3                                                             |          1 |         23 |          3 |         13 |         39 |
+| assignment1_4                                                             |          1 |         18 |          1 |          5 |         24 |
+| assignment2_1                                                             |          1 |          9 |          0 |          6 |         15 |
+| assignment2_2                                                             |          1 |         22 |          0 |          5 |         27 |
+| assignment2_3                                                             |          1 |         39 |          4 |         19 |         62 |
+| assignment2_4                                                             |          1 |         18 |          0 |         10 |         28 |
+| assignment3_1                                                             |          1 |         51 |          7 |         20 |         78 |
+| assignment3_2                                                             |          1 |         27 |          6 |         18 |         51 |
+| assignment3_3                                                             |          1 |         39 |          1 |         17 |         57 |
+| assignment3_4                                                             |          1 |         14 |          2 |          5 |         21 |
+| assignment4_1                                                             |          1 |         25 |          1 |          4 |         30 |
+| assignment4_2                                                             |          1 |         17 |          1 |         11 |         29 |
+| assignment4_3                                                             |          1 |         45 |          0 |         12 |         57 |
+| assignment4_4                                                             |          1 |         55 |          1 |         22 |         78 |
+| assignment5_1                                                             |          1 |         20 |          3 |          7 |         30 |
+| assignment5_2                                                             |          1 |         25 |          0 |         10 |         35 |
+| assignment5_3                                                             |          1 |         33 |          1 |         20 |         54 |
+| assignment5_4                                                             |          1 |         85 |         14 |         29 |        128 |
+| assignment6_1                                                             |          1 |         11 |          3 |          9 |         23 |
+| assignment6_2                                                             |          1 |         44 |          4 |         14 |         62 |
+| assignment6_3                                                             |          1 |         67 |          2 |         28 |         97 |
+| assignment6_4                                                             |          1 |         85 |          1 |         30 |        116 |
+| assignment7_1                                                             |          1 |         20 |          0 |          5 |         25 |
+| assignment7_2                                                             |          1 |         58 |          0 |         20 |         78 |
+| assignment7_3                                                             |          1 |         44 |          0 |         16 |         60 |
+| assignment7_4                                                             |          1 |         18 |          0 |          9 |         27 |
+| assignment8_1                                                             |          1 |         34 |          2 |          4 |         40 |
+| assignment8_2                                                             |          1 |         35 |          0 |         15 |         50 |
+| assignment8_3                                                             |          1 |        100 |          0 |         43 |        143 |
+| assignment8_4                                                             |          1 |        116 |          0 |         47 |        163 |
+| assignment9_1                                                             |          2 |         59 |         22 |         27 |        108 |
+| assignment9_2                                                             |          1 |         53 |         29 |         26 |        108 |
+| assignment9_3                                                             |          1 |         86 |          1 |         33 |        120 |
+| assignment9_4                                                             |          3 |        188 |         43 |         59 |        290 |
+| assignment9_5                                                             |          4 |        344 |         18 |        100 |        462 |
+| assignment9_6                                                             |          1 |         83 |          0 |         18 |        101 |
+| assignment9_7                                                             |          2 |        285 |        151 |         91 |        527 |
++---------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                  | language | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\tuukk\Documents\python\assignment1_2\program.py                  | Python   |          1 |          0 |          0 |          1 |
+| c:\Users\tuukk\Documents\python\assignment1_3\simple_maps.py              | Python   |         23 |          3 |         13 |         39 |
+| c:\Users\tuukk\Documents\python\assignment1_4\paint_calculator.py         | Python   |         18 |          1 |          5 |         24 |
+| c:\Users\tuukk\Documents\python\assignment2_1\speed_camera.py             | Python   |          9 |          0 |          6 |         15 |
+| c:\Users\tuukk\Documents\python\assignment2_2\contact_lenses.py           | Python   |         22 |          0 |          5 |         27 |
+| c:\Users\tuukk\Documents\python\assignment2_3\risk_calculator.py          | Python   |         39 |          4 |         19 |         62 |
+| c:\Users\tuukk\Documents\python\assignment2_4\brokage_fees.py             | Python   |         18 |          0 |         10 |         28 |
+| c:\Users\tuukk\Documents\python\assignment3_1\bottle_recycling.py         | Python   |         51 |          7 |         20 |         78 |
+| c:\Users\tuukk\Documents\python\assignment3_2\insurance_compensation.py   | Python   |         27 |          6 |         18 |         51 |
+| c:\Users\tuukk\Documents\python\assignment3_3\time_bomb.py                | Python   |         39 |          1 |         17 |         57 |
+| c:\Users\tuukk\Documents\python\assignment3_4\investement_calculator.py   | Python   |         14 |          2 |          5 |         21 |
+| c:\Users\tuukk\Documents\python\assignment4_1\coordinate_converter.py     | Python   |         25 |          1 |          4 |         30 |
+| c:\Users\tuukk\Documents\python\assignment4_2\swimming_pool.py            | Python   |         17 |          1 |         11 |         29 |
+| c:\Users\tuukk\Documents\python\assignment4_3\seeds.py                    | Python   |         45 |          0 |         12 |         57 |
+| c:\Users\tuukk\Documents\python\assignment4_4\room_heating.py             | Python   |         55 |          1 |         22 |         78 |
+| c:\Users\tuukk\Documents\python\assignment5_1\comissions.py               | Python   |         20 |          3 |          7 |         30 |
+| c:\Users\tuukk\Documents\python\assignment5_2\median_filter.py            | Python   |         25 |          0 |         10 |         35 |
+| c:\Users\tuukk\Documents\python\assignment5_3\grading_scaler.py           | Python   |         33 |          1 |         20 |         54 |
+| c:\Users\tuukk\Documents\python\assignment5_4\resistance_calculator.py    | Python   |         85 |         14 |         29 |        128 |
+| c:\Users\tuukk\Documents\python\assignment6_1\long_jump.py                | Python   |         11 |          3 |          9 |         23 |
+| c:\Users\tuukk\Documents\python\assignment6_2\nickname_generator.py       | Python   |         44 |          4 |         14 |         62 |
+| c:\Users\tuukk\Documents\python\assignment6_3\movies_reviews.py           | Python   |         67 |          2 |         28 |         97 |
+| c:\Users\tuukk\Documents\python\assignment6_4\monty_hall.py               | Python   |         85 |          1 |         30 |        116 |
+| c:\Users\tuukk\Documents\python\assignment7_1\temperatures.py             | Python   |         20 |          0 |          5 |         25 |
+| c:\Users\tuukk\Documents\python\assignment7_2\sports_diary.py             | Python   |         58 |          0 |         20 |         78 |
+| c:\Users\tuukk\Documents\python\assignment7_3\wind_speed.py               | Python   |         44 |          0 |         16 |         60 |
+| c:\Users\tuukk\Documents\python\assignment7_4\electricity.py              | Python   |         18 |          0 |          9 |         27 |
+| c:\Users\tuukk\Documents\python\assignment8_1\formula1.py                 | Python   |         34 |          2 |          4 |         40 |
+| c:\Users\tuukk\Documents\python\assignment8_2\vitamin.py                  | Python   |         35 |          0 |         15 |         50 |
+| c:\Users\tuukk\Documents\python\assignment8_3\berries.py                  | Python   |        100 |          0 |         43 |        143 |
+| c:\Users\tuukk\Documents\python\assignment8_4\cell_tower.py               | Python   |        116 |          0 |         47 |        163 |
+| c:\Users\tuukk\Documents\python\assignment9_1\employee.py                 | Python   |         31 |         18 |         19 |         68 |
+| c:\Users\tuukk\Documents\python\assignment9_1\employee_program.py         | Python   |         28 |          4 |          8 |         40 |
+| c:\Users\tuukk\Documents\python\assignment9_2\coffee_container_program.py | Python   |         53 |         29 |         26 |        108 |
+| c:\Users\tuukk\Documents\python\assignment9_3\rent_apartment.py           | Python   |         86 |          1 |         33 |        120 |
+| c:\Users\tuukk\Documents\python\assignment9_4\DEBUG.py                    | Python   |          7 |         23 |          4 |         34 |
+| c:\Users\tuukk\Documents\python\assignment9_4\restaurant_bill.py          | Python   |         72 |          3 |         25 |        100 |
+| c:\Users\tuukk\Documents\python\assignment9_4\restaurant_program.py       | Python   |        109 |         17 |         30 |        156 |
+| c:\Users\tuukk\Documents\python\assignment9_5\box.py                      | Python   |         56 |          0 |         15 |         71 |
+| c:\Users\tuukk\Documents\python\assignment9_5\dots_and_boxes_game.py      | Python   |        183 |          1 |         59 |        243 |
+| c:\Users\tuukk\Documents\python\assignment9_5\play_dots_and_boxes.py      | Python   |         99 |         17 |         25 |        141 |
+| c:\Users\tuukk\Documents\python\assignment9_5\test.py                     | Python   |          6 |          0 |          1 |          7 |
+| c:\Users\tuukk\Documents\python\assignment9_6\tennis.py                   | Python   |         83 |          0 |         18 |        101 |
+| c:\Users\tuukk\Documents\python\assignment9_7\poker.py                    | Python   |        200 |         78 |         63 |        341 |
+| c:\Users\tuukk\Documents\python\assignment9_7\poker_template.py           | Python   |         85 |         73 |         28 |        186 |
+| Total                                                                     |          |      2,296 |        321 |        827 |      3,444 |
++---------------------------------------------------------------------------+----------+------------+------------+------------+------------+

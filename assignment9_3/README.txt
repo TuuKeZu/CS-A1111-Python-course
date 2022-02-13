@@ -1,0 +1,1 @@
+Aalto's template program 'rent_apartment_program.py' was corrupted. This program will not function without it.
